@@ -16,4 +16,4 @@ Sistema desktop desenvolvido em **Java Swing** para gerenciar bibliotecas. Ele f
 - **Java Swing** para interface gráfica.
 - **MySQL** como banco de dados.
 - **NetBeans IDE** para desenvolvimento.
-
+- **Estrutura MVC** 
